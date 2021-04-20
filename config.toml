@@ -1,5 +1,5 @@
 title = "Look Back"
-baseURL = "/lookback"
+baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "hugo-icon"
 themesDir = "themes"
